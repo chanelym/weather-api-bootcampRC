@@ -6,6 +6,8 @@ The application uses a weather API to retrieve real-time weather information bas
 
 <img width="1766" height="906" alt="Screenshot 2026-11-09 at 1 09 50 AM" src="https://github.com/user-attachments/assets/36b6ddd0-60c5-45f0-a1cb-7920fcd39c8b" />
 
+## Deployed Site
+https://weather-api-bootcamprc.onrender.com
 
 ## Features
 Location Search: Enter a city and country to search for weather information.
